@@ -1,0 +1,21 @@
+[2023-06-18 14:11:43] [info] Start Program:
+Path:"C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe\x64\Debug\TicTacToe.exe"
+Arguments:
+Working directory: "C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe\"
+Modules: Selected: C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe\x64\Debug\TicTacToe.exe Excluded: 
+Sources: Selected: C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe Excluded: MyGUI.h MyGUI.cpp MyTableView.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\hp\AppData\Local\Temp\ctrmb0jg.rgs 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-06-18 14:11:43] [info] Module: C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe\x64\Debug\TicTacToe.exe is selected because it matches selected pattern: C:\Users\hp\Documents\Cursuri\Semestrul II\OOP\Modele practic\TicTacToe\x64\Debug\TicTacToe.exe
+[2023-06-18 14:11:43] [info] ----------------------------------------------------
+[2023-06-18 14:11:43] [info] Coverage binary generated in file: C:\Users\hp\AppData\Local\Temp\ctrmb0jg.rgs
+[2023-06-18 14:11:43] [info] ----------------------------------------------------

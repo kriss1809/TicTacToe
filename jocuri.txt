@@ -1,0 +1,13 @@
+705|3|-X0X-----|0|In derulare
+334|3|X0-------|X|Neinceput
+500|3|0XXX000X0|X|Neinceput
+464|3|----0----|X|Neinceput
+467|3|X0XXX00X0|0|Neinceput
+961|3|00X0XX0XX|0|Neinceput
+421|3|X0XXX0X00|0|Neinceput
+491|3|0X00XXXX0|0|Terminat
+42|4|-------X--0--0XX|X|Terminat
+19|3|X-0-0X0X0|X|Terminat
+41|3|0XXX00--0|X|Terminat
+1|3|X-0X0-X00|X|Terminat
+10|3|0X00X00XX|X|Terminat
